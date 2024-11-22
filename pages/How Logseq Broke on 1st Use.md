@@ -1,3 +1,5 @@
+public:: true
+
 -
 - Create new graph.
   logseq.order-list-type:: number
